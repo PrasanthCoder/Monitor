@@ -1,0 +1,8 @@
+decorator==5.1.1
+Django==4.1.7
+django-cors-headers==4.3.1
+djangorestframework==3.15.1
+psutil==5.9.8
+psycopg2==2.9.5
+requests==2.29.0
+dotenv==0.0.5
